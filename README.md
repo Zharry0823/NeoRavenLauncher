@@ -6,12 +6,8 @@
 
 **为 NeoRaven 客户端打造的桌面启动器** · Minecraft 1.8.9 / Forge 11.15.1.2318
 
-深色亚克力小窗 · Material Design 3 动效 · 一键部署运行环境 · 云端身份识别
 
 ![platform](https://img.shields.io/badge/Windows%2010%2F11-x64-0078D6?logo=windows\&logoColor=white)
-
-![platform](https://img.shields.io/badge/macOS-dmg-000000?logo=apple\&logoColor=white)
-
 
 
 ![electron](https://img.shields.io/badge/Electron-33-47848F?logo=electron\&logoColor=white)
